@@ -1,0 +1,501 @@
+Order_ID,Date,Product_Name,Category,Region,Salesperson,Units_Sold,Unit_Price,Discount_%,Revenue,Cost,Profit,Customer_Name,Customer_Segment,Payment_Method
+ORD0390,01-01-2024,Whiteboard Marker,Stationery,West,Rohan Mehta,4,180,5,684,320,364,PrintFast Agency,B2B,Bank Transfer
+ORD0099,02-01-2024,Ergonomic Chair,Furniture,West,Rohan Mehta,5,15000,0,75000,50000,25000,City School,B2B,Bank Transfer
+ORD0160,04-01-2024,Wireless Charger,Electronics,South,Suresh Babu,2,1500,0,3000,1600,1400,MegaCorp Tech,B2B,Bank Transfer
+ORD0298,04-01-2024,Ergonomic Chair,Furniture,South,Priya Nair,2,15000,0,30000,20000,10000,LegalEagle Assoc,B2B,Bank Transfer
+ORD0321,04-01-2024,Standing Desk,Furniture,East,Suhana Roy,6,28000,12,147840,120000,27840,Zara Qureshi,B2C,NetBanking
+ORD0238,05-01-2024,Smart TV 43 inch,Electronics,West,Sneha Pillai,5,38000,8,174800,140000,34800,Tanya Singh,B2C,UPI
+ORD0301,09-01-2024,Bookshelf 5-Tier,Furniture,West,Sneha Pillai,2,7500,0,15000,9000,6000,CallCenter Pro,B2B,Bank Transfer
+ORD0169,10-01-2024,Office Desk L-Shape,Furniture,North,Pooja Tiwari,10,18000,10,162000,130000,32000,Aarav Shah,B2C,EMI
+ORD0186,10-01-2024,Power Bank 20000mAh,Electronics,East,Amit Das,4,2500,8,9200,4800,4400,Lata Krishnan,B2C,Credit Card
+ORD0076,11-01-2024,TV Unit Cabinet,Furniture,South,Priya Nair,3,18000,12,47520,36000,11520,LegalEagle Assoc,B2B,Bank Transfer
+ORD0475,12-01-2024,Bed Frame King,Furniture,Central,Deepak Joshi,2,35000,8,64400,50000,14400,CreativeDesigns,B2B,Bank Transfer
+ORD0431,14-01-2024,Webcam HD 1080p,Electronics,South,Suresh Babu,2,3200,12,5632,3600,2032,Happy Kids School,B2B,Bank Transfer
+ORD0452,15-01-2024,Office Chair Deluxe,Furniture,North,Rahul Sharma,10,12000,5,114000,80000,34000,GamersHub,B2B,Bank Transfer
+ORD0247,17-01-2024,Bed Frame Queen,Furniture,North,Rahul Sharma,1,28000,12,24640,19000,5640,Aarav Shah,B2C,Credit Card
+ORD0108,19-01-2024,Office Desk L-Shape,Furniture,North,Pooja Tiwari,5,18000,8,82800,65000,17800,HomeOffice Hub,B2B,Bank Transfer
+ORD0206,19-01-2024,Laptop Stand Alum,Electronics,South,Priya Nair,4,2200,0,8800,4800,4000,Pooja Sharma,B2C,Debit Card
+ORD0306,22-01-2024,Keyboard Mech RGB,Electronics,South,Suresh Babu,5,4500,0,22500,14000,8500,Sunrise Offices,B2B,Bank Transfer
+ORD0092,24-01-2024,Smartphone Z9,Electronics,Central,Anita Bhatt,3,45000,12,118800,105000,13800,TechCorp India,B2B,Bank Transfer
+ORD0139,24-01-2024,Smart Watch V3,Electronics,East,Suhana Roy,2,18000,0,36000,26000,10000,TechNest Labs,B2B,Bank Transfer
+ORD0242,24-01-2024,Smart Watch V3,Electronics,South,Suresh Babu,8,18000,15,122400,104000,18400,Shreya Bhat,B2C,Debit Card
+ORD0486,24-01-2024,Laptop Pro X1,Electronics,South,Priya Nair,6,75000,8,414000,330000,84000,Ravi Kumar,B2C,NetBanking
+ORD0477,25-01-2024,Marker Set 20pc,Stationery,North,Pooja Tiwari,15,200,10,2700,1500,1200,RemoteTeam Co,B2B,Bank Transfer
+ORD0192,27-01-2024,Notebook Pack (12),Stationery,West,Rohan Mehta,18,180,0,3240,1620,1620,City School,B2B,Bank Transfer
+ORD0246,27-01-2024,Bed Frame King,Furniture,West,Sneha Pillai,9,35000,10,283500,225000,58500,CallCenter Pro,B2B,Bank Transfer
+ORD0256,27-01-2024,Smart TV 43 inch,Electronics,West,Rohan Mehta,8,38000,0,304000,224000,80000,TechCorp India,B2B,Bank Transfer
+ORD0027,28-01-2024,Ballpen Box 50pc,Stationery,North,Rahul Sharma,13,450,8,5382,2860,2522,CallCenter Pro,B2B,Bank Transfer
+ORD0287,30-01-2024,Wardrobe 3-Door,Furniture,West,Rohan Mehta,9,32000,15,244800,207000,37800,CreativeDesigns,B2B,Bank Transfer
+ORD0409,30-01-2024,Sofa Set 3+1+1,Furniture,Central,Anita Bhatt,10,65000,5,617500,480000,137500,GreenCode Labs,B2B,Bank Transfer
+ORD0031,31-01-2024,Bluetooth Speaker,Electronics,West,Sneha Pillai,7,5500,5,36575,21000,15575,Arjun Patel,B2C,Bank Transfer
+ORD0374,31-01-2024,Standing Desk,Furniture,Central,Anita Bhatt,9,28000,10,226800,180000,46800,Preethi Nambiar,B2C,UPI
+ORD0138,02-02-2024,A4 Paper Ream,Stationery,West,Rohan Mehta,21,250,10,4725,2940,1785,TechNest Labs,B2B,Bank Transfer
+ORD0220,03-02-2024,Wardrobe 3-Door,Furniture,Central,Anita Bhatt,5,32000,0,160000,115000,45000,Apex Consultants,B2B,Bank Transfer
+ORD0402,03-02-2024,USB Hub 7-Port,Electronics,West,Sneha Pillai,2,1200,8,2208,1300,908,InfoSys Partners,B2B,Bank Transfer
+ORD0020,05-02-2024,Whiteboard Marker,Stationery,Central,Deepak Joshi,5,180,12,792,400,392,RemoteTeam Co,B2B,Bank Transfer
+ORD0035,05-02-2024,Coffee Table Glass,Furniture,North,Rahul Sharma,7,12000,0,84000,56000,28000,InfoSys Partners,B2B,Bank Transfer
+ORD0039,05-02-2024,Ergonomic Mouse,Electronics,East,Suhana Roy,3,1800,12,4752,2700,2052,Gaurav Shetty,B2C,UPI
+ORD0366,05-02-2024,Bookcase Wide,Furniture,Central,Deepak Joshi,10,9000,0,90000,55000,35000,Rohan Desai,B2C,NetBanking
+ORD0128,07-02-2024,Study Table Kids,Furniture,East,Suhana Roy,7,5500,5,36575,24500,12075,Pooja Sharma,B2C,Credit Card
+ORD0231,07-02-2024,Marker Set 20pc,Stationery,North,Rahul Sharma,15,200,10,2700,1500,1200,Swati Jain,B2C,Credit Card
+ORD0373,07-02-2024,Wireless Earbuds,Electronics,Central,Deepak Joshi,1,3500,5,3325,2000,1325,InfoSys Partners,B2B,Bank Transfer
+ORD0425,07-02-2024,Smart Watch V3,Electronics,East,Amit Das,6,18000,5,102600,78000,24600,CodeCraft India,B2B,Bank Transfer
+ORD0355,08-02-2024,A4 Paper Ream,Stationery,North,Pooja Tiwari,17,250,5,4037.5,2380,1657.5,Swati Jain,B2C,Bank Transfer
+ORD0395,08-02-2024,USB Hub 7-Port,Electronics,South,Priya Nair,3,1200,0,3600,1950,1650,BlueSky Corp,B2B,Bank Transfer
+ORD0229,11-02-2024,Smart Watch V3,Electronics,Central,Anita Bhatt,4,18000,10,64800,52000,12800,PrimeEdge Ltd,B2B,Bank Transfer
+ORD0193,12-02-2024,Whiteboard Marker,Stationery,South,Suresh Babu,15,180,15,2295,1200,1095,NexGen Solutions,B2B,Bank Transfer
+ORD0313,12-02-2024,Printer InkJet 500,Electronics,South,Suresh Babu,3,9500,10,25650,19500,6150,Tanya Singh,B2C,UPI
+ORD0083,14-02-2024,Printer InkJet 500,Electronics,West,Sneha Pillai,8,9500,10,68400,52000,16400,Vikram Mehta,B2C,Bank Transfer
+ORD0264,14-02-2024,Standing Desk,Furniture,North,Rahul Sharma,3,28000,12,73920,60000,13920,Neha Gupta,B2C,UPI
+ORD0315,14-02-2024,Wireless Charger,Electronics,West,Rohan Mehta,9,1500,15,11475,7200,4275,Nandini Bose,B2C,UPI
+ORD0387,14-02-2024,Wardrobe 3-Door,Furniture,West,Sneha Pillai,6,32000,5,182400,138000,44400,Pooja Sharma,B2C,NetBanking
+ORD0406,14-02-2024,Printer InkJet 500,Electronics,West,Sneha Pillai,7,9500,5,63175,45500,17675,DataSoft Solutions,B2B,Bank Transfer
+ORD0316,15-02-2024,Router WiFi 6,Electronics,Central,Deepak Joshi,10,5000,8,46000,28000,18000,Riya Kapoor,B2C,EMI
+ORD0421,15-02-2024,Stapler Heavy Duty,Stationery,East,Suhana Roy,1,350,5,332.5,180,152.5,CallCenter Pro,B2B,Bank Transfer
+ORD0178,16-02-2024,TV Unit Cabinet,Furniture,Central,Anita Bhatt,8,18000,15,122400,96000,26400,BlueSky Corp,B2B,Bank Transfer
+ORD0194,16-02-2024,Keyboard Mech RGB,Electronics,West,Rohan Mehta,1,4500,10,4050,2800,1250,HomeOffice Hub,B2B,Bank Transfer
+ORD0314,16-02-2024,Laptop Pro X1,Electronics,East,Suhana Roy,6,75000,5,427500,330000,97500,TechNest Labs,B2B,Bank Transfer
+ORD0003,17-02-2024,Webcam HD 1080p,Electronics,South,Priya Nair,9,3200,5,27360,16200,11160,Meera Joshi,B2C,Bank Transfer
+ORD0030,17-02-2024,Whiteboard Marker,Stationery,South,Priya Nair,14,180,12,2217.6,1120,1097.6,Rohit Verma,B2C,Bank Transfer
+ORD0155,17-02-2024,Gaming Chair Pro,Furniture,North,Pooja Tiwari,3,22000,15,56100,45000,11100,GovtOffice Block A,B2B,Bank Transfer
+ORD0304,17-02-2024,Standing Desk,Furniture,West,Rohan Mehta,9,28000,12,221760,180000,41760,TechCorp India,B2B,Bank Transfer
+ORD0487,17-02-2024,Power Bank 20000mAh,Electronics,East,Amit Das,2,2500,10,4500,2400,2100,Swati Jain,B2C,EMI
+ORD0183,18-02-2024,Wardrobe 3-Door,Furniture,West,Rohan Mehta,5,32000,0,160000,115000,45000,Ishaan Malhotra,B2C,Debit Card
+ORD0330,20-02-2024,Headset Noise-Cancel,Electronics,South,Priya Nair,8,8500,8,62560,44000,18560,Swati Jain,B2C,NetBanking
+ORD0008,21-02-2024,Office Chair Deluxe,Furniture,East,Suhana Roy,6,12000,0,72000,48000,24000,Rohan Desai,B2C,Credit Card
+ORD0120,21-02-2024,Bookcase Wide,Furniture,West,Sneha Pillai,3,9000,10,24300,16500,7800,CodeCraft India,B2B,Bank Transfer
+ORD0368,21-02-2024,Monitor 27 inch 4K,Electronics,North,Pooja Tiwari,6,32000,10,172800,144000,28800,Kavya Menon,B2C,Credit Card
+ORD0428,21-02-2024,Portable SSD 1TB,Electronics,South,Priya Nair,7,7500,15,44625,31500,13125,Arjun Patel,B2C,EMI
+ORD0479,21-02-2024,Pen Set Premium,Stationery,Central,Anita Bhatt,20,120,0,2400,1200,1200,Nandini Bose,B2C,Debit Card
+ORD0365,22-02-2024,Action Camera X,Electronics,East,Suhana Roy,3,22000,10,59400,45000,14400,BrightTech,B2B,Bank Transfer
+ORD0157,23-02-2024,Bed Frame Queen,Furniture,Central,Deepak Joshi,3,28000,12,73920,57000,16920,GreenCode Labs,B2B,Bank Transfer
+ORD0062,24-02-2024,Scissors Pack 5,Stationery,West,Sneha Pillai,6,250,15,1275,720,555,Karan Singh,B2C,Debit Card
+ORD0171,24-02-2024,Ergonomic Mouse,Electronics,West,Rohan Mehta,9,1800,0,16200,8100,8100,Pooja Sharma,B2C,NetBanking
+ORD0078,25-02-2024,Bed Frame King,Furniture,North,Pooja Tiwari,10,35000,10,315000,250000,65000,Lata Krishnan,B2C,UPI
+ORD0457,25-02-2024,Sofa Set 3+1+1,Furniture,North,Pooja Tiwari,5,65000,8,299000,240000,59000,Sunita Rao,B2C,NetBanking
+ORD0245,26-02-2024,Ergonomic Chair,Furniture,Central,Anita Bhatt,1,15000,12,13200,10000,3200,Meera Joshi,B2C,NetBanking
+ORD0270,27-02-2024,Smartphone Z9,Electronics,Central,Deepak Joshi,10,45000,15,382500,350000,32500,PrintFast Ltd,B2B,Bank Transfer
+ORD0101,28-02-2024,File Cabinet 4-Dr,Furniture,South,Priya Nair,5,6500,0,32500,20000,12500,FinTech Hub,B2B,Bank Transfer
+ORD0170,28-02-2024,Standing Desk,Furniture,North,Pooja Tiwari,3,28000,12,73920,60000,13920,Ishaan Malhotra,B2C,Bank Transfer
+ORD0342,29-02-2024,Wireless Charger,Electronics,East,Amit Das,9,1500,10,12150,7200,4950,Kavya Menon,B2C,Debit Card
+ORD0113,01-03-2024,Notebook Pack (12),Stationery,South,Suresh Babu,30,180,5,5130,2700,2430,Aarav Shah,B2C,Bank Transfer
+ORD0380,01-03-2024,Scissors Pack 5,Stationery,North,Pooja Tiwari,26,250,10,5850,3120,2730,Gaurav Shetty,B2C,UPI
+ORD0464,01-03-2024,Sofa Set 3+1+1,Furniture,North,Rahul Sharma,8,65000,5,494000,384000,110000,CreativeDesigns,B2B,Bank Transfer
+ORD0199,03-03-2024,Smartphone Z9,Electronics,South,Suresh Babu,10,45000,12,396000,350000,46000,RemoteFirst Ltd,B2B,Bank Transfer
+ORD0055,04-03-2024,Sticky Notes 10pk,Stationery,East,Suhana Roy,22,150,10,2970,1540,1430,Preethi Nambiar,B2C,NetBanking
+ORD0151,05-03-2024,Printer InkJet 500,Electronics,Central,Anita Bhatt,7,9500,15,56525,45500,11025,Swati Jain,B2C,Debit Card
+ORD0225,07-03-2024,Gaming Chair Pro,Furniture,Central,Deepak Joshi,2,22000,15,37400,30000,7400,Happy Kids School,B2B,Bank Transfer
+ORD0133,08-03-2024,Smart TV 55 inch,Electronics,East,Suhana Roy,7,58000,0,406000,315000,91000,TechNest Labs,B2B,Bank Transfer
+ORD0454,08-03-2024,Notebook Pack (12),Stationery,South,Priya Nair,8,180,5,1368,720,648,Ravi Kumar,B2C,Bank Transfer
+ORD0268,09-03-2024,Sofa Set 3+1+1,Furniture,South,Suresh Babu,10,65000,8,598000,480000,118000,Nikhil Bapat,B2C,Debit Card
+ORD0393,09-03-2024,A4 Paper Ream,Stationery,West,Sneha Pillai,19,250,0,4750,2660,2090,Kavya Menon,B2C,Credit Card
+ORD0219,10-03-2024,Tablet Ultra 10,Electronics,West,Sneha Pillai,8,35000,0,280000,216000,64000,Rohan Desai,B2C,NetBanking
+ORD0345,10-03-2024,USB Hub 7-Port,Electronics,West,Rohan Mehta,7,1200,12,7392,4550,2842,Manish Tiwari,B2C,Bank Transfer
+ORD0417,10-03-2024,Bluetooth Speaker,Electronics,West,Rohan Mehta,6,5500,0,33000,18000,15000,Meera Joshi,B2C,NetBanking
+ORD0187,11-03-2024,Monitor 24 inch FHD,Electronics,North,Pooja Tiwari,2,18000,15,30600,26000,4600,GovtOffice Block A,B2B,Bank Transfer
+ORD0197,12-03-2024,Whiteboard Marker,Stationery,West,Rohan Mehta,20,180,0,3600,1600,2000,DataSoft Solutions,B2B,Bank Transfer
+ORD0351,12-03-2024,Webcam HD 1080p,Electronics,South,Priya Nair,10,3200,8,29440,18000,11440,Bhavna Patel,B2C,Credit Card
+ORD0253,15-03-2024,Laptop Stand Alum,Electronics,North,Pooja Tiwari,2,2200,8,4048,2400,1648,Sunita Rao,B2C,NetBanking
+ORD0060,16-03-2024,Wireless Earbuds,Electronics,North,Rahul Sharma,8,3500,0,28000,16000,12000,Aarav Shah,B2C,NetBanking
+ORD0145,16-03-2024,Coffee Table Glass,Furniture,North,Pooja Tiwari,3,12000,0,36000,24000,12000,Divya Iyer,B2C,UPI
+ORD0439,16-03-2024,Coffee Table Glass,Furniture,East,Suhana Roy,2,12000,0,24000,16000,8000,Preethi Nambiar,B2C,Debit Card
+ORD0384,17-03-2024,Wireless Charger,Electronics,North,Pooja Tiwari,4,1500,8,5520,3200,2320,PrintFast Agency,B2B,Bank Transfer
+ORD0405,17-03-2024,Smart Watch V3,Electronics,Central,Deepak Joshi,5,18000,12,79200,65000,14200,Nikhil Bapat,B2C,UPI
+ORD0441,17-03-2024,Monitor 24 inch FHD,Electronics,Central,Deepak Joshi,2,18000,0,36000,26000,10000,Bhavna Patel,B2C,EMI
+ORD0067,18-03-2024,Keyboard Mech RGB,Electronics,West,Sneha Pillai,4,4500,0,18000,11200,6800,Aarav Shah,B2C,EMI
+ORD0095,18-03-2024,Monitor 24 inch FHD,Electronics,Central,Anita Bhatt,2,18000,5,34200,26000,8200,PrintFast Agency,B2B,Bank Transfer
+ORD0389,18-03-2024,Laptop Pro X1,Electronics,West,Sneha Pillai,4,75000,15,255000,220000,35000,Riya Kapoor,B2C,EMI
+ORD0295,19-03-2024,USB Hub 7-Port,Electronics,East,Amit Das,7,1200,5,7980,4550,3430,Arun Nair,B2C,EMI
+ORD0047,20-03-2024,Ergonomic Mouse,Electronics,South,Priya Nair,7,1800,0,12600,6300,6300,GovtOffice Block A,B2B,Bank Transfer
+ORD0235,22-03-2024,Action Camera X,Electronics,Central,Anita Bhatt,4,22000,0,88000,60000,28000,Kritika Malhotra,B2C,Bank Transfer
+ORD0262,24-03-2024,Sticky Notes 10pk,Stationery,West,Rohan Mehta,23,150,0,3450,1610,1840,GovtOffice Block A,B2B,Bank Transfer
+ORD0102,25-03-2024,Gaming Laptop G7,Electronics,Central,Anita Bhatt,8,95000,0,760000,576000,184000,Pooja Sharma,B2C,NetBanking
+ORD0226,25-03-2024,Bluetooth Speaker,Electronics,East,Amit Das,6,5500,15,28050,18000,10050,Ishaan Malhotra,B2C,EMI
+ORD0319,26-03-2024,Gaming Chair Pro,Furniture,East,Suhana Roy,5,22000,12,96800,75000,21800,Apex Consultants,B2B,Bank Transfer
+ORD0346,26-03-2024,Smart TV 55 inch,Electronics,Central,Deepak Joshi,4,58000,5,220400,180000,40400,Sunrise Offices,B2B,Bank Transfer
+ORD0318,27-03-2024,Monitor 27 inch 4K,Electronics,East,Suhana Roy,5,32000,12,140800,120000,20800,CodeCraft India,B2B,Bank Transfer
+ORD0413,30-03-2024,Dining Table Set,Furniture,North,Rahul Sharma,1,45000,5,42750,33000,9750,DataSoft Solutions,B2B,Bank Transfer
+ORD0485,30-03-2024,Smart Watch V3,Electronics,East,Suhana Roy,6,18000,10,97200,78000,19200,GreenCode Labs,B2B,Bank Transfer
+ORD0259,31-03-2024,Smart Watch V3,Electronics,West,Rohan Mehta,3,18000,5,51300,39000,12300,TechCorp India,B2B,Bank Transfer
+ORD0415,31-03-2024,Action Camera X,Electronics,North,Rahul Sharma,3,22000,0,66000,45000,21000,ClearView Tech,B2B,Bank Transfer
+ORD0474,06-04-2024,Bluetooth Speaker,Electronics,West,Sneha Pillai,4,5500,5,20900,12000,8900,LegalEagle Assoc,B2B,Bank Transfer
+ORD0289,07-04-2024,Smartphone Z9,Electronics,East,Suhana Roy,10,45000,0,450000,350000,100000,HealthDesk Inc,B2B,Bank Transfer
+ORD0007,08-04-2024,Stapler Heavy Duty,Stationery,North,Rahul Sharma,22,350,5,7315,3960,3355,Ishaan Malhotra,B2C,Credit Card
+ORD0028,08-04-2024,USB Hub 7-Port,Electronics,Central,Anita Bhatt,3,1200,10,3240,1950,1290,Sunrise Offices,B2B,Bank Transfer
+ORD0302,08-04-2024,TV Unit Cabinet,Furniture,Central,Anita Bhatt,6,18000,5,102600,72000,30600,Ishaan Malhotra,B2C,EMI
+ORD0227,10-04-2024,A4 Paper Ream,Stationery,Central,Anita Bhatt,5,250,5,1187.5,700,487.5,Zenith Analytics,B2B,Bank Transfer
+ORD0401,11-04-2024,Standing Desk,Furniture,East,Amit Das,10,28000,5,266000,200000,66000,DataSoft Solutions,B2B,Bank Transfer
+ORD0360,13-04-2024,Marker Set 20pc,Stationery,South,Suresh Babu,6,200,5,1140,600,540,Apex Consultants,B2B,Bank Transfer
+ORD0376,14-04-2024,Monitor 24 inch FHD,Electronics,Central,Anita Bhatt,7,18000,0,126000,91000,35000,Zara Qureshi,B2C,NetBanking
+ORD0370,15-04-2024,Bookcase Wide,Furniture,Central,Deepak Joshi,7,9000,5,59850,38500,21350,CallCenter Pro,B2B,Bank Transfer
+ORD0291,18-04-2024,USB Hub 7-Port,Electronics,North,Pooja Tiwari,4,1200,5,4560,2600,1960,Neha Gupta,B2C,Debit Card
+ORD0438,18-04-2024,USB Hub 7-Port,Electronics,South,Priya Nair,7,1200,0,8400,4550,3850,Lata Krishnan,B2C,NetBanking
+ORD0367,19-04-2024,A4 Paper Ream,Stationery,South,Suresh Babu,20,250,12,4400,2800,1600,MegaCorp Tech,B2B,Bank Transfer
+ORD0090,20-04-2024,File Folder Box,Stationery,West,Rohan Mehta,24,300,15,6120,3600,2520,Nandini Bose,B2C,Credit Card
+ORD0282,21-04-2024,Whiteboard Marker,Stationery,North,Rahul Sharma,17,180,5,2907,1360,1547,ArtWorld School,B2B,Bank Transfer
+ORD0357,21-04-2024,Gaming Chair Pro,Furniture,South,Suresh Babu,5,22000,8,101200,75000,26200,Arun Nair,B2C,Debit Card
+ORD0049,23-04-2024,USB Hub 7-Port,Electronics,West,Rohan Mehta,5,1200,5,5700,3250,2450,DataSoft Solutions,B2B,Bank Transfer
+ORD0075,24-04-2024,Notebook Pack (12),Stationery,North,Rahul Sharma,25,180,0,4500,2250,2250,HealthDesk Inc,B2B,Bank Transfer
+ORD0386,24-04-2024,Bookcase Wide,Furniture,North,Pooja Tiwari,2,9000,12,15840,11000,4840,Pooja Sharma,B2C,EMI
+ORD0347,25-04-2024,File Cabinet 4-Dr,Furniture,East,Amit Das,8,6500,12,45760,32000,13760,RemoteFirst Ltd,B2B,Bank Transfer
+ORD0434,25-04-2024,Printer InkJet 500,Electronics,Central,Deepak Joshi,3,9500,0,28500,19500,9000,StateBank Office,B2B,Bank Transfer
+ORD0089,28-04-2024,DSLR Camera Pro,Electronics,South,Suresh Babu,2,85000,15,144500,130000,14500,HealthDesk Inc,B2B,Bank Transfer
+ORD0025,01-05-2024,Printer InkJet 500,Electronics,West,Sneha Pillai,9,9500,0,85500,58500,27000,Neha Gupta,B2C,Bank Transfer
+ORD0429,01-05-2024,Smart TV 43 inch,Electronics,North,Pooja Tiwari,10,38000,15,323000,280000,43000,Shreya Bhat,B2C,UPI
+ORD0377,02-05-2024,Smartphone Z9,Electronics,South,Priya Nair,7,45000,0,315000,245000,70000,Karan Singh,B2C,EMI
+ORD0288,04-05-2024,Headset Noise-Cancel,Electronics,South,Suresh Babu,2,8500,12,14960,11000,3960,Ishaan Malhotra,B2C,Debit Card
+ORD0354,06-05-2024,Whiteboard Marker,Stationery,West,Rohan Mehta,5,180,5,855,400,455,Varun Khanna,B2C,Bank Transfer
+ORD0410,06-05-2024,Pen Set Premium,Stationery,South,Suresh Babu,18,120,0,2160,1080,1080,CreativeDesigns,B2B,Bank Transfer
+ORD0063,07-05-2024,DSLR Camera Pro,Electronics,West,Sneha Pillai,8,85000,15,578000,520000,58000,Manish Tiwari,B2C,Debit Card
+ORD0320,08-05-2024,Ergonomic Mouse,Electronics,West,Sneha Pillai,8,1800,0,14400,7200,7200,Happy Kids School,B2B,Bank Transfer
+ORD0361,08-05-2024,Smart TV 55 inch,Electronics,East,Amit Das,1,58000,10,52200,45000,7200,Meera Joshi,B2C,Bank Transfer
+ORD0094,09-05-2024,Sofa Set 3+1+1,Furniture,North,Rahul Sharma,7,65000,12,400400,336000,64400,FinTech Hub,B2B,Bank Transfer
+ORD0167,10-05-2024,Laptop Stand Alum,Electronics,East,Amit Das,1,2200,12,1936,1200,736,Divya Iyer,B2C,Credit Card
+ORD0174,11-05-2024,USB Hub 7-Port,Electronics,South,Priya Nair,2,1200,0,2400,1300,1100,Swati Jain,B2C,Debit Card
+ORD0198,11-05-2024,Webcam HD 1080p,Electronics,South,Suresh Babu,2,3200,5,6080,3600,2480,Happy Kids School,B2B,Bank Transfer
+ORD0484,11-05-2024,Notebook Pack (12),Stationery,South,Suresh Babu,10,180,5,1710,900,810,Karan Singh,B2C,UPI
+ORD0462,12-05-2024,Sticky Notes 10pk,Stationery,Central,Deepak Joshi,22,150,8,3036,1540,1496,GamersHub,B2B,Bank Transfer
+ORD0073,13-05-2024,Office Chair Deluxe,Furniture,East,Amit Das,8,12000,8,88320,64000,24320,Varun Khanna,B2C,EMI
+ORD0218,13-05-2024,Stapler Heavy Duty,Stationery,West,Sneha Pillai,20,350,5,6650,3600,3050,Lata Krishnan,B2C,UPI
+ORD0265,13-05-2024,Office Chair Deluxe,Furniture,South,Suresh Babu,5,12000,8,55200,40000,15200,Riya Kapoor,B2C,EMI
+ORD0399,13-05-2024,Wireless Charger,Electronics,North,Pooja Tiwari,8,1500,15,10200,6400,3800,GreenCode Labs,B2B,Bank Transfer
+ORD0017,14-05-2024,Bookshelf 5-Tier,Furniture,South,Priya Nair,5,7500,15,31875,22500,9375,BrightTech,B2B,Bank Transfer
+ORD0381,14-05-2024,Stapler Heavy Duty,Stationery,Central,Deepak Joshi,16,350,12,4928,2880,2048,Karan Singh,B2C,Bank Transfer
+ORD0481,14-05-2024,Bookcase Wide,Furniture,South,Suresh Babu,7,9000,5,59850,38500,21350,InfoSys Partners,B2B,Bank Transfer
+ORD0052,15-05-2024,Smart Watch V3,Electronics,North,Pooja Tiwari,6,18000,8,99360,78000,21360,Kritika Malhotra,B2C,UPI
+ORD0098,15-05-2024,Pen Set Premium,Stationery,North,Rahul Sharma,8,120,0,960,480,480,PrintFast Ltd,B2B,Bank Transfer
+ORD0147,15-05-2024,Smartphone Z9,Electronics,South,Suresh Babu,9,45000,0,405000,315000,90000,Vertex Systems,B2B,Bank Transfer
+ORD0348,17-05-2024,Scissors Pack 5,Stationery,Central,Anita Bhatt,18,250,0,4500,2160,2340,Bhavna Patel,B2C,Credit Card
+ORD0164,19-05-2024,Webcam HD 1080p,Electronics,Central,Deepak Joshi,6,3200,10,17280,10800,6480,City School,B2B,Bank Transfer
+ORD0311,19-05-2024,Study Table Kids,Furniture,West,Sneha Pillai,6,5500,15,28050,21000,7050,Zara Qureshi,B2C,Credit Card
+ORD0468,20-05-2024,Webcam HD 1080p,Electronics,South,Priya Nair,8,3200,0,25600,14400,11200,NexGen Solutions,B2B,Bank Transfer
+ORD0043,21-05-2024,Smart Watch V3,Electronics,North,Pooja Tiwari,3,18000,5,51300,39000,12300,BlueSky Corp,B2B,Bank Transfer
+ORD0115,21-05-2024,Scissors Pack 5,Stationery,West,Rohan Mehta,30,250,15,6375,3600,2775,Riya Kapoor,B2C,EMI
+ORD0369,21-05-2024,Notebook Pack (12),Stationery,North,Rahul Sharma,18,180,5,3078,1620,1458,Happy Kids School,B2B,Bank Transfer
+ORD0443,21-05-2024,Standing Desk,Furniture,South,Suresh Babu,1,28000,10,25200,20000,5200,Neha Gupta,B2C,UPI
+ORD0217,22-05-2024,Ergonomic Mouse,Electronics,North,Rahul Sharma,3,1800,12,4752,2700,2052,Harish Reddy,B2C,EMI
+ORD0251,22-05-2024,Wardrobe 3-Door,Furniture,East,Amit Das,5,32000,5,152000,115000,37000,PrimeEdge Ltd,B2B,Bank Transfer
+ORD0338,22-05-2024,Whiteboard Marker,Stationery,North,Rahul Sharma,26,180,15,3978,2080,1898,Apex Consultants,B2B,Bank Transfer
+ORD0066,26-05-2024,Ergonomic Mouse,Electronics,East,Suhana Roy,6,1800,15,9180,5400,3780,TechNest Labs,B2B,Bank Transfer
+ORD0344,27-05-2024,Monitor 27 inch 4K,Electronics,South,Suresh Babu,8,32000,0,256000,192000,64000,Riya Kapoor,B2C,Bank Transfer
+ORD0473,28-05-2024,Office Desk L-Shape,Furniture,Central,Anita Bhatt,7,18000,0,126000,91000,35000,Siddharth Rao,B2C,EMI
+ORD0394,29-05-2024,Headset Noise-Cancel,Electronics,East,Suhana Roy,6,8500,8,46920,33000,13920,Ravi Kumar,B2C,Credit Card
+ORD0087,30-05-2024,Keyboard Mech RGB,Electronics,West,Sneha Pillai,5,4500,8,20700,14000,6700,Gaurav Shetty,B2C,EMI
+ORD0056,31-05-2024,Wardrobe 3-Door,Furniture,South,Priya Nair,7,32000,10,201600,161000,40600,Happy Kids School,B2B,Bank Transfer
+ORD0091,31-05-2024,Keyboard Mech RGB,Electronics,East,Amit Das,5,4500,0,22500,14000,8500,Sunrise Offices,B2B,Bank Transfer
+ORD0263,31-05-2024,Bed Frame Queen,Furniture,South,Priya Nair,10,28000,10,252000,190000,62000,Kritika Malhotra,B2C,EMI
+ORD0116,01-06-2024,Bed Frame King,Furniture,Central,Anita Bhatt,3,35000,12,92400,75000,17400,Rohan Desai,B2C,EMI
+ORD0260,01-06-2024,Bed Frame Queen,Furniture,Central,Deepak Joshi,6,28000,5,159600,114000,45600,Bhavna Patel,B2C,Debit Card
+ORD0284,02-06-2024,Printer InkJet 500,Electronics,North,Rahul Sharma,7,9500,15,56525,45500,11025,Karan Singh,B2C,EMI
+ORD0334,02-06-2024,Smart Watch V3,Electronics,North,Rahul Sharma,6,18000,0,108000,78000,30000,CallCenter Pro,B2B,Bank Transfer
+ORD0461,02-06-2024,Bluetooth Speaker,Electronics,Central,Deepak Joshi,5,5500,0,27500,15000,12500,Kavya Menon,B2C,NetBanking
+ORD0397,06-06-2024,Office Desk L-Shape,Furniture,East,Amit Das,2,18000,0,36000,26000,10000,Ananya Roy,B2C,Credit Card
+ORD0177,07-06-2024,Office Desk L-Shape,Furniture,West,Sneha Pillai,1,18000,8,16560,13000,3560,Deepika Shah,B2C,NetBanking
+ORD0223,07-06-2024,Standing Desk,Furniture,West,Rohan Mehta,7,28000,0,196000,140000,56000,ArtWorld School,B2B,Bank Transfer
+ORD0162,08-06-2024,Sticky Notes 10pk,Stationery,East,Amit Das,29,150,0,4350,2030,2320,PrintFast Ltd,B2B,Bank Transfer
+ORD0294,09-06-2024,Ergonomic Chair,Furniture,North,Rahul Sharma,3,15000,0,45000,30000,15000,Aarav Shah,B2C,EMI
+ORD0011,10-06-2024,Standing Desk,Furniture,East,Amit Das,4,28000,8,103040,80000,23040,PrimeEdge Ltd,B2B,Bank Transfer
+ORD0252,11-06-2024,Sofa Set 3+1+1,Furniture,East,Suhana Roy,5,65000,0,325000,240000,85000,Preethi Nambiar,B2C,EMI
+ORD0372,11-06-2024,Monitor 27 inch 4K,Electronics,West,Rohan Mehta,6,32000,15,163200,144000,19200,Vertex Systems,B2B,Bank Transfer
+ORD0196,12-06-2024,Smart TV 43 inch,Electronics,East,Amit Das,3,38000,0,114000,84000,30000,Nikhil Bapat,B2C,NetBanking
+ORD0385,12-06-2024,Printer InkJet 500,Electronics,North,Pooja Tiwari,2,9500,15,16150,13000,3150,WorkSmart Co,B2B,Bank Transfer
+ORD0292,13-06-2024,Scissors Pack 5,Stationery,East,Suhana Roy,15,250,15,3187.5,1800,1387.5,Pooja Sharma,B2C,EMI
+ORD0495,13-06-2024,Ergonomic Mouse,Electronics,East,Suhana Roy,1,1800,15,1530,900,630,CreativeDesigns,B2B,Bank Transfer
+ORD0104,14-06-2024,Coffee Table Glass,Furniture,East,Amit Das,2,12000,5,22800,16000,6800,Sunrise Offices,B2B,Bank Transfer
+ORD0352,14-06-2024,Stapler Heavy Duty,Stationery,East,Suhana Roy,19,350,5,6317.5,3420,2897.5,TechNest Labs,B2B,Bank Transfer
+ORD0084,15-06-2024,Wireless Charger,Electronics,West,Sneha Pillai,6,1500,5,8550,4800,3750,Ravi Kumar,B2C,Debit Card
+ORD0124,15-06-2024,Smartphone Z9,Electronics,East,Suhana Roy,6,45000,10,243000,210000,33000,CallCenter Pro,B2B,Bank Transfer
+ORD0339,15-06-2024,USB Hub 7-Port,Electronics,West,Sneha Pillai,5,1200,12,5280,3250,2030,Varun Khanna,B2C,Debit Card
+ORD0440,15-06-2024,Printer InkJet 500,Electronics,Central,Anita Bhatt,1,9500,15,8075,6500,1575,Harish Reddy,B2C,Bank Transfer
+ORD0211,16-06-2024,Pen Set Premium,Stationery,East,Suhana Roy,15,120,10,1620,900,720,BlueSky Corp,B2B,Bank Transfer
+ORD0271,16-06-2024,Bookcase Wide,Furniture,West,Sneha Pillai,4,9000,12,31680,22000,9680,Zenith Analytics,B2B,Bank Transfer
+ORD0356,16-06-2024,Bed Frame King,Furniture,North,Rahul Sharma,8,35000,8,257600,200000,57600,HomeOffice Hub,B2B,Bank Transfer
+ORD0398,16-06-2024,Monitor 24 inch FHD,Electronics,North,Rahul Sharma,6,18000,10,97200,78000,19200,Happy Kids School,B2B,Bank Transfer
+ORD0467,19-06-2024,A4 Paper Ream,Stationery,South,Suresh Babu,21,250,0,5250,2940,2310,BlueSky Corp,B2B,Bank Transfer
+ORD0005,21-06-2024,Smart TV 43 inch,Electronics,North,Pooja Tiwari,2,38000,8,69920,56000,13920,Sunita Rao,B2C,UPI
+ORD0023,22-06-2024,Wireless Earbuds,Electronics,Central,Deepak Joshi,10,3500,5,33250,20000,13250,CodeCraft India,B2B,Bank Transfer
+ORD0135,22-06-2024,DSLR Camera Pro,Electronics,West,Sneha Pillai,3,85000,5,242250,195000,47250,Tanya Singh,B2C,UPI
+ORD0172,22-06-2024,Keyboard Mech RGB,Electronics,East,Amit Das,2,4500,15,7650,5600,2050,ClearView Tech,B2B,Bank Transfer
+ORD0182,22-06-2024,Ballpen Box 50pc,Stationery,Central,Deepak Joshi,26,450,8,10764,5720,5044,GovtOffice Block A,B2B,Bank Transfer
+ORD0209,22-06-2024,Wireless Charger,Electronics,West,Rohan Mehta,6,1500,15,7650,4800,2850,Ishaan Malhotra,B2C,NetBanking
+ORD0232,23-06-2024,Coffee Table Glass,Furniture,South,Suresh Babu,6,12000,8,66240,48000,18240,Kavya Menon,B2C,EMI
+ORD0499,23-06-2024,Power Bank 20000mAh,Electronics,North,Rahul Sharma,8,2500,8,18400,9600,8800,Tanya Singh,B2C,NetBanking
+ORD0426,24-06-2024,Bluetooth Speaker,Electronics,West,Sneha Pillai,2,5500,15,9350,6000,3350,GovtOffice Block A,B2B,Bank Transfer
+ORD0080,26-06-2024,File Cabinet 4-Dr,Furniture,West,Rohan Mehta,2,6500,15,11050,8000,3050,Riya Kapoor,B2C,Bank Transfer
+ORD0158,28-06-2024,Wardrobe 3-Door,Furniture,East,Amit Das,5,32000,5,152000,115000,37000,Vikram Mehta,B2C,Debit Card
+ORD0212,28-06-2024,Study Table Kids,Furniture,North,Pooja Tiwari,10,5500,10,49500,35000,14500,Karan Singh,B2C,UPI
+ORD0411,30-06-2024,Wireless Charger,Electronics,South,Priya Nair,10,1500,8,13800,8000,5800,Vikram Mehta,B2C,NetBanking
+ORD0463,30-06-2024,Keyboard Mech RGB,Electronics,East,Suhana Roy,6,4500,8,24840,16800,8040,Arjun Patel,B2C,Bank Transfer
+ORD0293,03-07-2024,Bookshelf 5-Tier,Furniture,West,Rohan Mehta,2,7500,12,13200,9000,4200,Rohit Verma,B2C,EMI
+ORD0328,03-07-2024,Marker Set 20pc,Stationery,Central,Deepak Joshi,4,200,5,760,400,360,Ramesh Pillai,B2C,NetBanking
+ORD0430,03-07-2024,Laptop Pro X1,Electronics,West,Sneha Pillai,5,75000,12,330000,275000,55000,GreenCode Labs,B2B,Bank Transfer
+ORD0019,04-07-2024,Gaming Laptop G7,Electronics,South,Priya Nair,4,95000,0,380000,288000,92000,PrimeEdge Ltd,B2B,Bank Transfer
+ORD0110,04-07-2024,TV Unit Cabinet,Furniture,West,Rohan Mehta,1,18000,5,17100,12000,5100,Kavya Menon,B2C,EMI
+ORD0142,04-07-2024,Smart TV 43 inch,Electronics,East,Suhana Roy,1,38000,10,34200,28000,6200,Lata Krishnan,B2C,UPI
+ORD0215,04-07-2024,Office Chair Deluxe,Furniture,Central,Deepak Joshi,10,12000,0,120000,80000,40000,Tanya Singh,B2C,EMI
+ORD0046,05-07-2024,Smart Watch V3,Electronics,East,Amit Das,4,18000,0,72000,52000,20000,Aarav Shah,B2C,Debit Card
+ORD0416,05-07-2024,Tablet Ultra 10,Electronics,East,Suhana Roy,10,35000,0,350000,270000,80000,Pooja Sharma,B2C,EMI
+ORD0045,08-07-2024,Bed Frame King,Furniture,Central,Deepak Joshi,7,35000,0,245000,175000,70000,Happy Kids School,B2B,Bank Transfer
+ORD0137,09-07-2024,Smart TV 43 inch,Electronics,South,Suresh Babu,1,38000,15,32300,28000,4300,Meera Joshi,B2C,NetBanking
+ORD0018,10-07-2024,Whiteboard Marker,Stationery,South,Priya Nair,20,180,8,3312,1600,1712,Vikram Mehta,B2C,UPI
+ORD0203,10-07-2024,Headset Noise-Cancel,Electronics,North,Pooja Tiwari,2,8500,8,15640,11000,4640,GreenCode Labs,B2B,Bank Transfer
+ORD0447,10-07-2024,Smartphone Z9,Electronics,Central,Deepak Joshi,2,45000,5,85500,70000,15500,Kavya Menon,B2C,Debit Card
+ORD0286,11-07-2024,Wireless Charger,Electronics,Central,Anita Bhatt,4,1500,5,5700,3200,2500,Shreya Bhat,B2C,Bank Transfer
+ORD0455,11-07-2024,Router WiFi 6,Electronics,West,Rohan Mehta,4,5000,12,17600,11200,6400,Gaurav Shetty,B2C,Debit Card
+ORD0327,12-07-2024,Tablet Ultra 10,Electronics,West,Rohan Mehta,10,35000,10,315000,270000,45000,Bhavna Patel,B2C,UPI
+ORD0010,13-07-2024,Printer InkJet 500,Electronics,Central,Deepak Joshi,6,9500,0,57000,39000,18000,InfoSys Partners,B2B,Bank Transfer
+ORD0069,13-07-2024,Sofa Set 3+1+1,Furniture,North,Pooja Tiwari,5,65000,10,292500,240000,52500,Bhavna Patel,B2C,NetBanking
+ORD0168,13-07-2024,File Cabinet 4-Dr,Furniture,South,Suresh Babu,2,6500,10,11700,8000,3700,NexGen Solutions,B2B,Bank Transfer
+ORD0015,14-07-2024,Coffee Table Glass,Furniture,West,Rohan Mehta,9,12000,0,108000,72000,36000,Sunrise Offices,B2B,Bank Transfer
+ORD0191,14-07-2024,Bookshelf 5-Tier,Furniture,Central,Anita Bhatt,3,7500,5,21375,13500,7875,RemoteTeam Co,B2B,Bank Transfer
+ORD0407,14-07-2024,Stapler Heavy Duty,Stationery,East,Suhana Roy,18,350,12,5544,3240,2304,Kritika Malhotra,B2C,EMI
+ORD0433,14-07-2024,Power Bank 20000mAh,Electronics,South,Suresh Babu,1,2500,5,2375,1200,1175,Swati Jain,B2C,EMI
+ORD0129,15-07-2024,Sofa Set 3+1+1,Furniture,North,Rahul Sharma,7,65000,8,418600,336000,82600,Arjun Patel,B2C,UPI
+ORD0309,15-07-2024,Whiteboard Marker,Stationery,South,Priya Nair,17,180,8,2815.2,1360,1455.2,GreenCode Labs,B2B,Bank Transfer
+ORD0343,15-07-2024,Gaming Chair Pro,Furniture,South,Suresh Babu,9,22000,0,198000,135000,63000,PrimeEdge Ltd,B2B,Bank Transfer
+ORD0472,15-07-2024,Bookshelf 5-Tier,Furniture,Central,Anita Bhatt,3,7500,0,22500,13500,9000,Happy Kids School,B2B,Bank Transfer
+ORD0053,16-07-2024,Bed Frame Queen,Furniture,South,Suresh Babu,1,28000,10,25200,19000,6200,ClearView Tech,B2B,Bank Transfer
+ORD0488,16-07-2024,Marker Set 20pc,Stationery,West,Rohan Mehta,21,200,0,4200,2100,2100,TechNest Labs,B2B,Bank Transfer
+ORD0140,17-07-2024,Office Desk L-Shape,Furniture,East,Suhana Roy,10,18000,0,180000,130000,50000,Nandini Bose,B2C,Bank Transfer
+ORD0408,17-07-2024,Printer InkJet 500,Electronics,South,Priya Nair,6,9500,5,54150,39000,15150,Sunrise Offices,B2B,Bank Transfer
+ORD0071,18-07-2024,Portable SSD 1TB,Electronics,West,Sneha Pillai,8,7500,0,60000,36000,24000,HomeOffice Hub,B2B,Bank Transfer
+ORD0340,19-07-2024,Bed Frame King,Furniture,North,Pooja Tiwari,6,35000,12,184800,150000,34800,Happy Kids School,B2B,Bank Transfer
+ORD0241,20-07-2024,Power Bank 20000mAh,Electronics,East,Suhana Roy,3,2500,5,7125,3600,3525,Kritika Malhotra,B2C,UPI
+ORD0324,20-07-2024,Power Bank 20000mAh,Electronics,North,Rahul Sharma,10,2500,15,21250,12000,9250,DataSoft Solutions,B2B,Bank Transfer
+ORD0012,21-07-2024,Notebook Pack (12),Stationery,West,Sneha Pillai,9,180,0,1620,810,810,RemoteTeam Co,B2B,Bank Transfer
+ORD0037,21-07-2024,Monitor 27 inch 4K,Electronics,East,Suhana Roy,6,32000,0,192000,144000,48000,Orbit Dynamics,B2B,Bank Transfer
+ORD0136,21-07-2024,Laptop Pro X1,Electronics,East,Amit Das,8,75000,8,552000,440000,112000,Varun Khanna,B2C,NetBanking
+ORD0166,21-07-2024,Coffee Table Glass,Furniture,North,Rahul Sharma,4,12000,5,45600,32000,13600,TechNest Labs,B2B,Bank Transfer
+ORD0207,22-07-2024,File Cabinet 4-Dr,Furniture,West,Rohan Mehta,1,6500,5,6175,4000,2175,Rohan Desai,B2C,UPI
+ORD0323,22-07-2024,Action Camera X,Electronics,East,Suhana Roy,10,22000,5,209000,150000,59000,Varun Khanna,B2C,EMI
+ORD0432,22-07-2024,Sofa Set 3+1+1,Furniture,West,Rohan Mehta,2,65000,15,110500,96000,14500,Divya Iyer,B2C,EMI
+ORD0456,22-07-2024,Bed Frame King,Furniture,North,Rahul Sharma,9,35000,8,289800,225000,64800,Pooja Sharma,B2C,NetBanking
+ORD0239,24-07-2024,Smartphone Z9,Electronics,Central,Deepak Joshi,6,45000,15,229500,210000,19500,Deepika Shah,B2C,Bank Transfer
+ORD0103,25-07-2024,Printer InkJet 500,Electronics,Central,Anita Bhatt,8,9500,0,76000,52000,24000,NexGen Solutions,B2B,Bank Transfer
+ORD0496,25-07-2024,Ergonomic Mouse,Electronics,North,Pooja Tiwari,8,1800,12,12672,7200,5472,PrimeEdge Ltd,B2B,Bank Transfer
+ORD0057,26-07-2024,Wardrobe 3-Door,Furniture,North,Pooja Tiwari,5,32000,5,152000,115000,37000,Sanjay Menon,B2C,Bank Transfer
+ORD0303,26-07-2024,Office Desk L-Shape,Furniture,Central,Deepak Joshi,4,18000,5,68400,52000,16400,InfoSys Partners,B2B,Bank Transfer
+ORD0336,26-07-2024,A4 Paper Ream,Stationery,South,Priya Nair,21,250,10,4725,2940,1785,Vikram Mehta,B2C,NetBanking
+ORD0460,26-07-2024,Office Chair Deluxe,Furniture,North,Rahul Sharma,6,12000,5,68400,48000,20400,Rohan Desai,B2C,Debit Card
+ORD0026,27-07-2024,USB Hub 7-Port,Electronics,North,Rahul Sharma,7,1200,8,7728,4550,3178,Aarav Shah,B2C,Bank Transfer
+ORD0086,27-07-2024,Dining Table Set,Furniture,Central,Deepak Joshi,8,45000,12,316800,264000,52800,Vikram Mehta,B2C,UPI
+ORD0466,28-07-2024,Bed Frame Queen,Furniture,West,Sneha Pillai,6,28000,0,168000,114000,54000,PrimeEdge Ltd,B2B,Bank Transfer
+ORD0048,29-07-2024,Pen Set Premium,Stationery,South,Suresh Babu,6,120,0,720,360,360,Ananya Roy,B2C,Bank Transfer
+ORD0353,29-07-2024,Smartphone Z9,Electronics,East,Amit Das,3,45000,5,128250,105000,23250,ArtWorld School,B2B,Bank Transfer
+ORD0442,29-07-2024,Headset Noise-Cancel,Electronics,West,Rohan Mehta,10,8500,12,74800,55000,19800,WorkSmart Co,B2B,Bank Transfer
+ORD0153,30-07-2024,Portable SSD 1TB,Electronics,West,Rohan Mehta,7,7500,0,52500,31500,21000,Zara Qureshi,B2C,EMI
+ORD0248,30-07-2024,Marker Set 20pc,Stationery,South,Suresh Babu,17,200,12,2992,1700,1292,TechNest Labs,B2B,Bank Transfer
+ORD0317,30-07-2024,Office Chair Deluxe,Furniture,North,Rahul Sharma,10,12000,15,102000,80000,22000,CreativeDesigns,B2B,Bank Transfer
+ORD0392,30-07-2024,Marker Set 20pc,Stationery,East,Suhana Roy,24,200,0,4800,2400,2400,Zenith Analytics,B2B,Bank Transfer
+ORD0332,31-07-2024,Smart TV 55 inch,Electronics,North,Rahul Sharma,6,58000,5,330600,270000,60600,Swati Jain,B2C,Credit Card
+ORD0446,01-08-2024,Coffee Table Glass,Furniture,North,Rahul Sharma,8,12000,5,91200,64000,27200,Siddharth Rao,B2C,Debit Card
+ORD0074,03-08-2024,Headset Noise-Cancel,Electronics,North,Pooja Tiwari,1,8500,15,7225,5500,1725,StateBank Office,B2B,Bank Transfer
+ORD0088,05-08-2024,File Folder Box,Stationery,Central,Anita Bhatt,12,300,12,3168,1800,1368,Pooja Sharma,B2C,EMI
+ORD0210,05-08-2024,Smart TV 55 inch,Electronics,West,Sneha Pillai,9,58000,5,495900,405000,90900,Nandini Bose,B2C,UPI
+ORD0349,05-08-2024,Smart TV 43 inch,Electronics,South,Suresh Babu,1,38000,12,33440,28000,5440,Rohan Desai,B2C,UPI
+ORD0201,07-08-2024,Laptop Pro X1,Electronics,Central,Anita Bhatt,4,75000,10,270000,220000,50000,MegaCorp Tech,B2B,Bank Transfer
+ORD0123,10-08-2024,Smart TV 43 inch,Electronics,North,Pooja Tiwari,3,38000,5,108300,84000,24300,InfoSys Partners,B2B,Bank Transfer
+ORD0106,11-08-2024,A4 Paper Ream,Stationery,West,Sneha Pillai,16,250,8,3680,2240,1440,Arun Nair,B2C,EMI
+ORD0310,11-08-2024,Keyboard Mech RGB,Electronics,North,Pooja Tiwari,10,4500,10,40500,28000,12500,Vikram Mehta,B2C,NetBanking
+ORD0111,12-08-2024,Marker Set 20pc,Stationery,West,Sneha Pillai,1,200,5,190,100,90,Happy Kids School,B2B,Bank Transfer
+ORD0189,12-08-2024,Smart Watch V3,Electronics,West,Rohan Mehta,4,18000,12,63360,52000,11360,Manish Tiwari,B2C,Credit Card
+ORD0350,12-08-2024,DSLR Camera Pro,Electronics,South,Priya Nair,10,85000,8,782000,650000,132000,Ramesh Pillai,B2C,Debit Card
+ORD0423,12-08-2024,Sticky Notes 10pk,Stationery,West,Sneha Pillai,29,150,10,3915,2030,1885,Varun Khanna,B2C,EMI
+ORD0491,13-08-2024,Smart Watch V3,Electronics,North,Pooja Tiwari,6,18000,0,108000,78000,30000,GovtOffice Block A,B2B,Bank Transfer
+ORD0058,14-08-2024,Study Table Kids,Furniture,South,Suresh Babu,3,5500,0,16500,10500,6000,Kritika Malhotra,B2C,NetBanking
+ORD0176,14-08-2024,A4 Paper Ream,Stationery,East,Suhana Roy,19,250,0,4750,2660,2090,Kritika Malhotra,B2C,UPI
+ORD0216,15-08-2024,Whiteboard Marker,Stationery,North,Rahul Sharma,17,180,8,2815.2,1360,1455.2,Sanjay Menon,B2C,NetBanking
+ORD0272,16-08-2024,Smartphone Z9,Electronics,West,Sneha Pillai,9,45000,10,364500,315000,49500,Karan Singh,B2C,Debit Card
+ORD0281,16-08-2024,Coffee Table Glass,Furniture,North,Rahul Sharma,1,12000,10,10800,8000,2800,Meera Joshi,B2C,Debit Card
+ORD0497,16-08-2024,Action Camera X,Electronics,North,Pooja Tiwari,1,22000,0,22000,15000,7000,Aarav Shah,B2C,UPI
+ORD0148,17-08-2024,Scissors Pack 5,Stationery,East,Amit Das,15,250,15,3187.5,1800,1387.5,InfoSys Partners,B2B,Bank Transfer
+ORD0276,17-08-2024,Office Chair Deluxe,Furniture,West,Sneha Pillai,9,12000,0,108000,72000,36000,Harish Reddy,B2C,Credit Card
+ORD0180,18-08-2024,Smart TV 43 inch,Electronics,East,Amit Das,9,38000,0,342000,252000,90000,CallCenter Pro,B2B,Bank Transfer
+ORD0234,18-08-2024,Ergonomic Mouse,Electronics,South,Priya Nair,1,1800,5,1710,900,810,Aarav Shah,B2C,Credit Card
+ORD0500,19-08-2024,DSLR Camera Pro,Electronics,North,Rahul Sharma,1,85000,8,78200,65000,13200,Arjun Patel,B2C,Debit Card
+ORD0143,20-08-2024,Smart TV 55 inch,Electronics,South,Priya Nair,1,58000,8,53360,45000,8360,TechNest Labs,B2B,Bank Transfer
+ORD0449,21-08-2024,Smartphone Z9,Electronics,East,Amit Das,5,45000,8,207000,175000,32000,Kritika Malhotra,B2C,Bank Transfer
+ORD0006,23-08-2024,File Cabinet 4-Dr,Furniture,North,Pooja Tiwari,2,6500,15,11050,8000,3050,Tanya Singh,B2C,Debit Card
+ORD0250,23-08-2024,File Cabinet 4-Dr,Furniture,East,Suhana Roy,5,6500,12,28600,20000,8600,CallCenter Pro,B2B,Bank Transfer
+ORD0279,23-08-2024,Router WiFi 6,Electronics,South,Suresh Babu,4,5000,0,20000,11200,8800,PrintFast Agency,B2B,Bank Transfer
+ORD0029,24-08-2024,Ergonomic Mouse,Electronics,North,Pooja Tiwari,9,1800,0,16200,8100,8100,TechCorp India,B2B,Bank Transfer
+ORD0273,24-08-2024,Ballpen Box 50pc,Stationery,East,Amit Das,13,450,5,5557.5,2860,2697.5,LegalEagle Assoc,B2B,Bank Transfer
+ORD0325,24-08-2024,Stapler Heavy Duty,Stationery,South,Suresh Babu,26,350,5,8645,4680,3965,PrintFast Agency,B2B,Bank Transfer
+ORD0400,24-08-2024,Smart TV 43 inch,Electronics,South,Priya Nair,1,38000,0,38000,28000,10000,TechNest Labs,B2B,Bank Transfer
+ORD0403,24-08-2024,Smartphone Z9,Electronics,South,Suresh Babu,7,45000,12,277200,245000,32200,CreativeDesigns,B2B,Bank Transfer
+ORD0205,25-08-2024,Marker Set 20pc,Stationery,West,Sneha Pillai,26,200,0,5200,2600,2600,Orbit Dynamics,B2B,Bank Transfer
+ORD0278,25-08-2024,Ballpen Box 50pc,Stationery,Central,Anita Bhatt,18,450,10,7290,3960,3330,CallCenter Pro,B2B,Bank Transfer
+ORD0077,26-08-2024,Marker Set 20pc,Stationery,East,Suhana Roy,6,200,0,1200,600,600,Happy Kids School,B2B,Bank Transfer
+ORD0396,26-08-2024,Action Camera X,Electronics,West,Sneha Pillai,9,22000,8,182160,135000,47160,BlueSky Corp,B2B,Bank Transfer
+ORD0121,28-08-2024,Headset Noise-Cancel,Electronics,East,Suhana Roy,2,8500,8,15640,11000,4640,Sanjay Menon,B2C,NetBanking
+ORD0114,29-08-2024,Ergonomic Mouse,Electronics,West,Sneha Pillai,7,1800,5,11970,6300,5670,CodeCraft India,B2B,Bank Transfer
+ORD0275,29-08-2024,Smart Watch V3,Electronics,East,Suhana Roy,3,18000,0,54000,39000,15000,Tanya Singh,B2C,Bank Transfer
+ORD0478,30-08-2024,Marker Set 20pc,Stationery,South,Priya Nair,23,200,0,4600,2300,2300,Aarav Shah,B2C,NetBanking
+ORD0444,31-08-2024,Printer InkJet 500,Electronics,East,Amit Das,6,9500,5,54150,39000,15150,Ravi Kumar,B2C,Bank Transfer
+ORD0254,02-09-2024,Webcam HD 1080p,Electronics,South,Suresh Babu,9,3200,5,27360,16200,11160,GreenCode Labs,B2B,Bank Transfer
+ORD0122,06-09-2024,File Cabinet 4-Dr,Furniture,North,Rahul Sharma,4,6500,5,24700,16000,8700,MegaCorp Tech,B2B,Bank Transfer
+ORD0081,07-09-2024,Smart TV 43 inch,Electronics,West,Rohan Mehta,8,38000,0,304000,224000,80000,Divya Iyer,B2C,NetBanking
+ORD0296,07-09-2024,Sticky Notes 10pk,Stationery,West,Rohan Mehta,6,150,8,828,420,408,TechNest Labs,B2B,Bank Transfer
+ORD0391,08-09-2024,Smartphone Z9,Electronics,South,Suresh Babu,2,45000,0,90000,70000,20000,ClearView Tech,B2B,Bank Transfer
+ORD0014,09-09-2024,Smart TV 55 inch,Electronics,North,Rahul Sharma,3,58000,0,174000,135000,39000,Deepika Shah,B2C,Bank Transfer
+ORD0261,09-09-2024,Monitor 27 inch 4K,Electronics,Central,Anita Bhatt,5,32000,5,152000,120000,32000,GovtOffice Block A,B2B,Bank Transfer
+ORD0371,10-09-2024,Office Chair Deluxe,Furniture,North,Rahul Sharma,8,12000,0,96000,64000,32000,Apex Consultants,B2B,Bank Transfer
+ORD0379,11-09-2024,Router WiFi 6,Electronics,Central,Anita Bhatt,3,5000,8,13800,8400,5400,Sunrise Offices,B2B,Bank Transfer
+ORD0420,11-09-2024,Monitor 24 inch FHD,Electronics,East,Amit Das,4,18000,8,66240,52000,14240,Ramesh Pillai,B2C,NetBanking
+ORD0200,12-09-2024,Coffee Table Glass,Furniture,Central,Deepak Joshi,9,12000,5,102600,72000,30600,City School,B2B,Bank Transfer
+ORD0236,12-09-2024,Gaming Laptop G7,Electronics,West,Sneha Pillai,2,95000,10,171000,144000,27000,Neha Gupta,B2C,Credit Card
+ORD0195,14-09-2024,Power Bank 20000mAh,Electronics,South,Suresh Babu,2,2500,8,4600,2400,2200,DataSoft Solutions,B2B,Bank Transfer
+ORD0064,15-09-2024,Gaming Chair Pro,Furniture,Central,Anita Bhatt,3,22000,12,58080,45000,13080,Sunita Rao,B2C,Credit Card
+ORD0240,15-09-2024,Study Table Kids,Furniture,Central,Anita Bhatt,10,5500,0,55000,35000,20000,GreenCode Labs,B2B,Bank Transfer
+ORD0299,15-09-2024,Office Desk L-Shape,Furniture,East,Amit Das,10,18000,12,158400,130000,28400,Vikram Mehta,B2C,UPI
+ORD0051,17-09-2024,Standing Desk,Furniture,Central,Anita Bhatt,1,28000,0,28000,20000,8000,Divya Iyer,B2C,Debit Card
+ORD0221,17-09-2024,Keyboard Mech RGB,Electronics,North,Rahul Sharma,3,4500,5,12825,8400,4425,Vikram Mehta,B2C,EMI
+ORD0244,17-09-2024,File Cabinet 4-Dr,Furniture,West,Rohan Mehta,8,6500,0,52000,32000,20000,Arun Nair,B2C,NetBanking
+ORD0383,17-09-2024,Laptop Pro X1,Electronics,North,Rahul Sharma,4,75000,0,300000,220000,80000,Tanya Singh,B2C,Bank Transfer
+ORD0173,18-09-2024,USB Hub 7-Port,Electronics,East,Suhana Roy,3,1200,5,3420,1950,1470,BrightTech,B2B,Bank Transfer
+ORD0109,20-09-2024,Laptop Pro X1,Electronics,Central,Anita Bhatt,7,75000,0,525000,385000,140000,ClearView Tech,B2B,Bank Transfer
+ORD0233,20-09-2024,Wardrobe 3-Door,Furniture,North,Pooja Tiwari,4,32000,12,112640,92000,20640,Sunrise Offices,B2B,Bank Transfer
+ORD0243,20-09-2024,Monitor 27 inch 4K,Electronics,East,Suhana Roy,3,32000,10,86400,72000,14400,Arun Nair,B2C,Debit Card
+ORD0335,21-09-2024,Wireless Charger,Electronics,Central,Deepak Joshi,6,1500,15,7650,4800,2850,Swati Jain,B2C,Credit Card
+ORD0249,22-09-2024,Webcam HD 1080p,Electronics,Central,Anita Bhatt,8,3200,15,21760,14400,7360,Sanjay Menon,B2C,Credit Card
+ORD0492,22-09-2024,Bookcase Wide,Furniture,Central,Deepak Joshi,7,9000,5,59850,38500,21350,Rohan Desai,B2C,NetBanking
+ORD0333,23-09-2024,Sofa Set 3+1+1,Furniture,East,Suhana Roy,2,65000,12,114400,96000,18400,Sanjay Menon,B2C,UPI
+ORD0082,24-09-2024,Notebook Pack (12),Stationery,East,Suhana Roy,15,180,10,2430,1350,1080,Sanjay Menon,B2C,Credit Card
+ORD0202,25-09-2024,Power Bank 20000mAh,Electronics,North,Rahul Sharma,7,2500,12,15400,8400,7000,CreativeDesigns,B2B,Bank Transfer
+ORD0414,26-09-2024,Sofa Set 3+1+1,Furniture,North,Pooja Tiwari,10,65000,5,617500,480000,137500,GovtOffice Block A,B2B,Bank Transfer
+ORD0021,27-09-2024,Coffee Table Glass,Furniture,West,Sneha Pillai,9,12000,5,102600,72000,30600,Preethi Nambiar,B2C,NetBanking
+ORD0125,28-09-2024,Ergonomic Chair,Furniture,Central,Deepak Joshi,3,15000,0,45000,30000,15000,CreativeDesigns,B2B,Bank Transfer
+ORD0161,28-09-2024,Webcam HD 1080p,Electronics,West,Rohan Mehta,8,3200,8,23552,14400,9152,Apex Consultants,B2B,Bank Transfer
+ORD0465,28-09-2024,Gaming Laptop G7,Electronics,West,Sneha Pillai,3,95000,0,285000,216000,69000,GovtOffice Block A,B2B,Bank Transfer
+ORD0300,29-09-2024,Wardrobe 3-Door,Furniture,West,Sneha Pillai,1,32000,15,27200,23000,4200,Bhavna Patel,B2C,EMI
+ORD0190,30-09-2024,Ergonomic Mouse,Electronics,East,Suhana Roy,4,1800,8,6624,3600,3024,Swati Jain,B2C,EMI
+ORD0470,30-09-2024,USB Hub 7-Port,Electronics,East,Amit Das,6,1200,15,6120,3900,2220,DataSoft Solutions,B2B,Bank Transfer
+ORD0436,01-10-2024,Ballpen Box 50pc,Stationery,West,Sneha Pillai,16,450,5,6840,3520,3320,HomeOffice Hub,B2B,Bank Transfer
+ORD0054,02-10-2024,Ballpen Box 50pc,Stationery,South,Suresh Babu,14,450,0,6300,3080,3220,Sanjay Menon,B2C,NetBanking
+ORD0277,02-10-2024,Standing Desk,Furniture,Central,Deepak Joshi,4,28000,0,112000,80000,32000,Happy Kids School,B2B,Bank Transfer
+ORD0134,03-10-2024,Power Bank 20000mAh,Electronics,Central,Anita Bhatt,3,2500,5,7125,3600,3525,Arjun Patel,B2C,NetBanking
+ORD0068,04-10-2024,Office Desk L-Shape,Furniture,West,Sneha Pillai,4,18000,10,64800,52000,12800,Vikram Mehta,B2C,Debit Card
+ORD0435,04-10-2024,Ergonomic Chair,Furniture,Central,Deepak Joshi,9,15000,0,135000,90000,45000,Gaurav Shetty,B2C,Bank Transfer
+ORD0307,05-10-2024,Bed Frame Queen,Furniture,North,Rahul Sharma,6,28000,0,168000,114000,54000,BrightTech,B2B,Bank Transfer
+ORD0070,06-10-2024,Coffee Table Glass,Furniture,South,Suresh Babu,4,12000,5,45600,32000,13600,Siddharth Rao,B2C,UPI
+ORD0297,06-10-2024,Dining Table Set,Furniture,South,Priya Nair,9,45000,0,405000,297000,108000,FinTech Hub,B2B,Bank Transfer
+ORD0424,06-10-2024,Office Chair Deluxe,Furniture,North,Pooja Tiwari,10,12000,5,114000,80000,34000,BlueSky Corp,B2B,Bank Transfer
+ORD0482,07-10-2024,Dining Table Set,Furniture,South,Suresh Babu,6,45000,5,256500,198000,58500,TechCorp India,B2B,Bank Transfer
+ORD0257,08-10-2024,Bluetooth Speaker,Electronics,West,Rohan Mehta,8,5500,5,41800,24000,17800,Sanjay Menon,B2C,EMI
+ORD0044,09-10-2024,Stapler Heavy Duty,Stationery,West,Sneha Pillai,4,350,0,1400,720,680,InfoSys Partners,B2B,Bank Transfer
+ORD0112,09-10-2024,Laptop Pro X1,Electronics,Central,Anita Bhatt,2,75000,5,142500,110000,32500,Orbit Dynamics,B2B,Bank Transfer
+ORD0117,09-10-2024,Whiteboard Marker,Stationery,Central,Anita Bhatt,15,180,8,2484,1200,1284,CallCenter Pro,B2B,Bank Transfer
+ORD0041,10-10-2024,Monitor 24 inch FHD,Electronics,East,Suhana Roy,10,18000,5,171000,130000,41000,Rohit Verma,B2C,NetBanking
+ORD0222,10-10-2024,Bed Frame Queen,Furniture,East,Suhana Roy,9,28000,0,252000,171000,81000,CodeCraft India,B2B,Bank Transfer
+ORD0498,12-10-2024,Wardrobe 3-Door,Furniture,North,Rahul Sharma,10,32000,5,304000,230000,74000,Orbit Dynamics,B2B,Bank Transfer
+ORD0185,13-10-2024,Office Chair Deluxe,Furniture,East,Amit Das,9,12000,0,108000,72000,36000,Kritika Malhotra,B2C,EMI
+ORD0144,16-10-2024,Webcam HD 1080p,Electronics,North,Rahul Sharma,10,3200,5,30400,18000,12400,GovtOffice Block A,B2B,Bank Transfer
+ORD0382,17-10-2024,Bluetooth Speaker,Electronics,East,Amit Das,5,5500,0,27500,15000,12500,GamersHub,B2B,Bank Transfer
+ORD0448,18-10-2024,Wireless Earbuds,Electronics,South,Priya Nair,4,3500,0,14000,8000,6000,InfoSys Partners,B2B,Bank Transfer
+ORD0118,19-10-2024,Office Chair Deluxe,Furniture,South,Suresh Babu,1,12000,8,11040,8000,3040,Varun Khanna,B2C,Bank Transfer
+ORD0179,19-10-2024,Notebook Pack (12),Stationery,South,Suresh Babu,20,180,12,3168,1800,1368,FinTech Hub,B2B,Bank Transfer
+ORD0093,20-10-2024,Laptop Stand Alum,Electronics,West,Rohan Mehta,8,2200,8,16192,9600,6592,FinTech Hub,B2B,Bank Transfer
+ORD0061,21-10-2024,USB Hub 7-Port,Electronics,West,Rohan Mehta,7,1200,5,7980,4550,3430,TechCorp India,B2B,Bank Transfer
+ORD0105,22-10-2024,Smart Watch V3,Electronics,South,Suresh Babu,9,18000,12,142560,117000,25560,Divya Iyer,B2C,Debit Card
+ORD0283,22-10-2024,Coffee Table Glass,Furniture,East,Amit Das,5,12000,0,60000,40000,20000,PrintFast Agency,B2B,Bank Transfer
+ORD0358,22-10-2024,Monitor 27 inch 4K,Electronics,Central,Anita Bhatt,6,32000,0,192000,144000,48000,GreenCode Labs,B2B,Bank Transfer
+ORD0033,23-10-2024,File Folder Box,Stationery,Central,Deepak Joshi,24,300,8,6624,3600,3024,FinTech Hub,B2B,Bank Transfer
+ORD0175,23-10-2024,Study Table Kids,Furniture,Central,Anita Bhatt,6,5500,0,33000,21000,12000,Deepika Shah,B2C,Bank Transfer
+ORD0274,23-10-2024,Tablet Ultra 10,Electronics,North,Pooja Tiwari,6,35000,0,210000,162000,48000,CodeCraft India,B2B,Bank Transfer
+ORD0204,24-10-2024,File Folder Box,Stationery,East,Amit Das,2,300,8,552,300,252,Divya Iyer,B2C,NetBanking
+ORD0237,25-10-2024,Router WiFi 6,Electronics,North,Rahul Sharma,5,5000,12,22000,14000,8000,Arjun Patel,B2C,Debit Card
+ORD0013,26-10-2024,Gaming Chair Pro,Furniture,Central,Anita Bhatt,6,22000,5,125400,90000,35400,Zenith Analytics,B2B,Bank Transfer
+ORD0034,26-10-2024,Sofa Set 3+1+1,Furniture,Central,Deepak Joshi,1,65000,15,55250,48000,7250,WorkSmart Co,B2B,Bank Transfer
+ORD0290,27-10-2024,Sticky Notes 10pk,Stationery,Central,Deepak Joshi,16,150,5,2280,1120,1160,Pooja Sharma,B2C,UPI
+ORD0451,27-10-2024,Wardrobe 3-Door,Furniture,East,Suhana Roy,3,32000,5,91200,69000,22200,City School,B2B,Bank Transfer
+ORD0004,28-10-2024,Printer InkJet 500,Electronics,North,Rahul Sharma,7,9500,8,61180,45500,15680,Shreya Bhat,B2C,Credit Card
+ORD0097,28-10-2024,Gaming Chair Pro,Furniture,East,Amit Das,10,22000,0,220000,150000,70000,LegalEagle Assoc,B2B,Bank Transfer
+ORD0331,28-10-2024,Marker Set 20pc,Stationery,Central,Deepak Joshi,12,200,0,2400,1200,1200,Nandini Bose,B2C,EMI
+ORD0418,28-10-2024,Wireless Charger,Electronics,West,Rohan Mehta,5,1500,0,7500,4000,3500,TechCorp India,B2B,Bank Transfer
+ORD0072,30-10-2024,Bed Frame Queen,Furniture,North,Rahul Sharma,7,28000,0,196000,133000,63000,Divya Iyer,B2C,UPI
+ORD0079,30-10-2024,Marker Set 20pc,Stationery,South,Priya Nair,23,200,5,4370,2300,2070,InfoSys Partners,B2B,Bank Transfer
+ORD0363,30-10-2024,Keyboard Mech RGB,Electronics,Central,Anita Bhatt,1,4500,0,4500,2800,1700,Harish Reddy,B2C,Bank Transfer
+ORD0322,31-10-2024,Monitor 27 inch 4K,Electronics,East,Suhana Roy,10,32000,5,304000,240000,64000,Sanjay Menon,B2C,Credit Card
+ORD0427,31-10-2024,TV Unit Cabinet,Furniture,West,Sneha Pillai,7,18000,0,126000,84000,42000,Ramesh Pillai,B2C,UPI
+ORD0459,03-11-2024,Standing Desk,Furniture,East,Amit Das,1,28000,12,24640,20000,4640,Sunita Rao,B2C,Bank Transfer
+ORD0152,05-11-2024,Gaming Chair Pro,Furniture,North,Rahul Sharma,9,22000,5,188100,135000,53100,Manish Tiwari,B2C,Credit Card
+ORD0096,06-11-2024,Coffee Table Glass,Furniture,Central,Deepak Joshi,9,12000,10,97200,72000,25200,Manish Tiwari,B2C,EMI
+ORD0131,06-11-2024,Router WiFi 6,Electronics,South,Priya Nair,10,5000,5,47500,28000,19500,GreenCode Labs,B2B,Bank Transfer
+ORD0214,07-11-2024,Ballpen Box 50pc,Stationery,West,Sneha Pillai,5,450,0,2250,1100,1150,Apex Consultants,B2B,Bank Transfer
+ORD0490,08-11-2024,Office Chair Deluxe,Furniture,East,Amit Das,3,12000,12,31680,24000,7680,Harish Reddy,B2C,Bank Transfer
+ORD0329,09-11-2024,Smart Watch V3,Electronics,Central,Anita Bhatt,6,18000,10,97200,78000,19200,TechCorp India,B2B,Bank Transfer
+ORD0280,10-11-2024,Scissors Pack 5,Stationery,North,Rahul Sharma,7,250,0,1750,840,910,InfoSys Partners,B2B,Bank Transfer
+ORD0337,10-11-2024,USB Hub 7-Port,Electronics,West,Rohan Mehta,7,1200,0,8400,4550,3850,LegalEagle Assoc,B2B,Bank Transfer
+ORD0341,10-11-2024,Bed Frame King,Furniture,North,Rahul Sharma,6,35000,0,210000,150000,60000,Happy Kids School,B2B,Bank Transfer
+ORD0141,11-11-2024,Ergonomic Chair,Furniture,East,Amit Das,6,15000,5,85500,60000,25500,Manish Tiwari,B2C,Credit Card
+ORD0255,11-11-2024,File Folder Box,Stationery,Central,Deepak Joshi,8,300,0,2400,1200,1200,GamersHub,B2B,Bank Transfer
+ORD0163,12-11-2024,Smartphone Z9,Electronics,North,Pooja Tiwari,8,45000,10,324000,280000,44000,Manish Tiwari,B2C,Bank Transfer
+ORD0188,12-11-2024,Monitor 27 inch 4K,Electronics,Central,Anita Bhatt,3,32000,0,96000,72000,24000,PrintFast Ltd,B2B,Bank Transfer
+ORD0480,12-11-2024,DSLR Camera Pro,Electronics,East,Amit Das,2,85000,12,149600,130000,19600,HealthDesk Inc,B2B,Bank Transfer
+ORD0036,13-11-2024,Smart TV 55 inch,Electronics,West,Rohan Mehta,5,58000,5,275500,225000,50500,Neha Gupta,B2C,EMI
+ORD0126,13-11-2024,Ballpen Box 50pc,Stationery,South,Suresh Babu,30,450,0,13500,6600,6900,Orbit Dynamics,B2B,Bank Transfer
+ORD0038,14-11-2024,Bed Frame Queen,Furniture,North,Rahul Sharma,9,28000,5,239400,171000,68400,Kavya Menon,B2C,EMI
+ORD0388,14-11-2024,Ergonomic Mouse,Electronics,West,Rohan Mehta,10,1800,12,15840,9000,6840,CallCenter Pro,B2B,Bank Transfer
+ORD0359,16-11-2024,Office Desk L-Shape,Furniture,North,Rahul Sharma,3,18000,12,47520,39000,8520,Riya Kapoor,B2C,Bank Transfer
+ORD0132,17-11-2024,Notebook Pack (12),Stationery,North,Pooja Tiwari,26,180,12,4118.4,2340,1778.4,Apex Consultants,B2B,Bank Transfer
+ORD0230,17-11-2024,File Cabinet 4-Dr,Furniture,East,Suhana Roy,8,6500,5,49400,32000,17400,Pooja Sharma,B2C,Bank Transfer
+ORD0042,20-11-2024,Headset Noise-Cancel,Electronics,Central,Anita Bhatt,5,8500,0,42500,27500,15000,NexGen Solutions,B2B,Bank Transfer
+ORD0059,20-11-2024,TV Unit Cabinet,Furniture,East,Amit Das,4,18000,5,68400,48000,20400,HealthDesk Inc,B2B,Bank Transfer
+ORD0469,20-11-2024,Gaming Chair Pro,Furniture,West,Rohan Mehta,8,22000,10,158400,120000,38400,InfoSys Partners,B2B,Bank Transfer
+ORD0450,21-11-2024,DSLR Camera Pro,Electronics,North,Rahul Sharma,6,85000,12,448800,390000,58800,Divya Iyer,B2C,Bank Transfer
+ORD0065,22-11-2024,Printer InkJet 500,Electronics,Central,Anita Bhatt,4,9500,5,36100,26000,10100,Deepika Shah,B2C,NetBanking
+ORD0127,22-11-2024,Headset Noise-Cancel,Electronics,West,Rohan Mehta,1,8500,12,7480,5500,1980,Bhavna Patel,B2C,Credit Card
+ORD0001,23-11-2024,DSLR Camera Pro,Electronics,North,Pooja Tiwari,4,85000,5,323000,260000,63000,GreenCode Labs,B2B,Bank Transfer
+ORD0375,23-11-2024,File Cabinet 4-Dr,Furniture,Central,Deepak Joshi,5,6500,0,32500,20000,12500,Ishaan Malhotra,B2C,Debit Card
+ORD0476,23-11-2024,Headset Noise-Cancel,Electronics,Central,Deepak Joshi,10,8500,0,85000,55000,30000,DataSoft Solutions,B2B,Bank Transfer
+ORD0016,24-11-2024,Portable SSD 1TB,Electronics,North,Pooja Tiwari,7,7500,0,52500,31500,21000,Riya Kapoor,B2C,NetBanking
+ORD0224,24-11-2024,Tablet Ultra 10,Electronics,West,Rohan Mehta,9,35000,8,289800,243000,46800,WorkSmart Co,B2B,Bank Transfer
+ORD0228,24-11-2024,Bluetooth Speaker,Electronics,Central,Deepak Joshi,3,5500,8,15180,9000,6180,DataSoft Solutions,B2B,Bank Transfer
+ORD0285,25-11-2024,Pen Set Premium,Stationery,West,Rohan Mehta,23,120,10,2484,1380,1104,Shreya Bhat,B2C,EMI
+ORD0494,25-11-2024,Bluetooth Speaker,Electronics,Central,Anita Bhatt,8,5500,0,44000,24000,20000,PrimeEdge Ltd,B2B,Bank Transfer
+ORD0258,26-11-2024,Smartphone Z9,Electronics,North,Rahul Sharma,9,45000,0,405000,315000,90000,PrintFast Agency,B2B,Bank Transfer
+ORD0022,28-11-2024,Power Bank 20000mAh,Electronics,West,Rohan Mehta,2,2500,5,4750,2400,2350,CodeCraft India,B2B,Bank Transfer
+ORD0266,30-11-2024,Power Bank 20000mAh,Electronics,South,Priya Nair,2,2500,12,4400,2400,2000,Ramesh Pillai,B2C,Bank Transfer
+ORD0208,01-12-2024,Portable SSD 1TB,Electronics,East,Amit Das,6,7500,10,40500,27000,13500,Manish Tiwari,B2C,Bank Transfer
+ORD0362,01-12-2024,Smart TV 55 inch,Electronics,North,Rahul Sharma,4,58000,12,204160,180000,24160,TechNest Labs,B2B,Bank Transfer
+ORD0159,02-12-2024,Marker Set 20pc,Stationery,East,Amit Das,6,200,5,1140,600,540,Arun Nair,B2C,EMI
+ORD0050,03-12-2024,USB Hub 7-Port,Electronics,West,Rohan Mehta,5,1200,0,6000,3250,2750,Rohan Desai,B2C,NetBanking
+ORD0130,03-12-2024,Standing Desk,Furniture,East,Amit Das,10,28000,0,280000,200000,80000,Arjun Patel,B2C,Credit Card
+ORD0149,03-12-2024,Bookcase Wide,Furniture,East,Suhana Roy,1,9000,0,9000,5500,3500,Preethi Nambiar,B2C,Bank Transfer
+ORD0146,04-12-2024,Wireless Earbuds,Electronics,South,Priya Nair,6,3500,5,19950,12000,7950,Vikram Mehta,B2C,Credit Card
+ORD0119,05-12-2024,Notebook Pack (12),Stationery,South,Suresh Babu,2,180,0,360,180,180,Nandini Bose,B2C,Bank Transfer
+ORD0184,05-12-2024,Monitor 24 inch FHD,Electronics,East,Suhana Roy,7,18000,0,126000,91000,35000,Happy Kids School,B2B,Bank Transfer
+ORD0154,06-12-2024,Headset Noise-Cancel,Electronics,East,Amit Das,8,8500,0,68000,44000,24000,MegaCorp Tech,B2B,Bank Transfer
+ORD0269,06-12-2024,Webcam HD 1080p,Electronics,South,Priya Nair,9,3200,12,25344,16200,9144,Deepika Shah,B2C,Debit Card
+ORD0040,07-12-2024,Wardrobe 3-Door,Furniture,East,Amit Das,3,32000,5,91200,69000,22200,GreenCode Labs,B2B,Bank Transfer
+ORD0378,07-12-2024,File Folder Box,Stationery,South,Priya Nair,1,300,0,300,150,150,PrintFast Ltd,B2B,Bank Transfer
+ORD0009,09-12-2024,Printer InkJet 500,Electronics,North,Rahul Sharma,9,9500,5,81225,58500,22725,Orbit Dynamics,B2B,Bank Transfer
+ORD0107,09-12-2024,Smart TV 43 inch,Electronics,South,Suresh Babu,7,38000,12,234080,196000,38080,Preethi Nambiar,B2C,Debit Card
+ORD0156,09-12-2024,DSLR Camera Pro,Electronics,West,Rohan Mehta,7,85000,0,595000,455000,140000,Pooja Sharma,B2C,EMI
+ORD0213,09-12-2024,A4 Paper Ream,Stationery,West,Rohan Mehta,17,250,0,4250,2380,1870,BrightTech,B2B,Bank Transfer
+ORD0483,09-12-2024,Smart TV 55 inch,Electronics,North,Pooja Tiwari,3,58000,0,174000,135000,39000,GreenCode Labs,B2B,Bank Transfer
+ORD0326,10-12-2024,Dining Table Set,Furniture,South,Suresh Babu,4,45000,5,171000,132000,39000,NexGen Solutions,B2B,Bank Transfer
+ORD0002,12-12-2024,File Folder Box,Stationery,Central,Deepak Joshi,19,300,10,5130,2850,2280,DataSoft Solutions,B2B,Bank Transfer
+ORD0453,12-12-2024,Webcam HD 1080p,Electronics,East,Suhana Roy,9,3200,0,28800,16200,12600,Vertex Systems,B2B,Bank Transfer
+ORD0471,12-12-2024,Laptop Pro X1,Electronics,South,Priya Nair,6,75000,5,427500,330000,97500,GreenCode Labs,B2B,Bank Transfer
+ORD0493,12-12-2024,Notebook Pack (12),Stationery,West,Sneha Pillai,27,180,15,4131,2430,1701,TechCorp India,B2B,Bank Transfer
+ORD0165,13-12-2024,Ballpen Box 50pc,Stationery,Central,Anita Bhatt,17,450,5,7267.5,3740,3527.5,GamersHub,B2B,Bank Transfer
+ORD0312,14-12-2024,Bed Frame King,Furniture,West,Sneha Pillai,10,35000,5,332500,250000,82500,CodeCraft India,B2B,Bank Transfer
+ORD0404,15-12-2024,Gaming Chair Pro,Furniture,South,Suresh Babu,4,22000,0,88000,60000,28000,Ravi Kumar,B2C,Bank Transfer
+ORD0150,17-12-2024,Smart TV 43 inch,Electronics,West,Rohan Mehta,2,38000,0,76000,56000,20000,Shreya Bhat,B2C,UPI
+ORD0267,17-12-2024,Bookshelf 5-Tier,Furniture,East,Amit Das,5,7500,8,34500,22500,12000,GamersHub,B2B,Bank Transfer
+ORD0422,20-12-2024,Tablet Ultra 10,Electronics,East,Suhana Roy,2,35000,0,70000,54000,16000,CreativeDesigns,B2B,Bank Transfer
+ORD0364,21-12-2024,Monitor 27 inch 4K,Electronics,West,Sneha Pillai,4,32000,10,115200,96000,19200,GreenCode Labs,B2B,Bank Transfer
+ORD0032,22-12-2024,Sticky Notes 10pk,Stationery,Central,Anita Bhatt,5,150,5,712.5,350,362.5,Rohit Verma,B2C,UPI
+ORD0445,22-12-2024,Ballpen Box 50pc,Stationery,North,Rahul Sharma,5,450,5,2137.5,1100,1037.5,Sanjay Menon,B2C,EMI
+ORD0489,22-12-2024,Sticky Notes 10pk,Stationery,North,Rahul Sharma,4,150,10,540,280,260,Manish Tiwari,B2C,Credit Card
+ORD0412,24-12-2024,Router WiFi 6,Electronics,Central,Deepak Joshi,10,5000,5,47500,28000,19500,Bhavna Patel,B2C,EMI
+ORD0085,25-12-2024,Printer InkJet 500,Electronics,Central,Deepak Joshi,9,9500,5,81225,58500,22725,CallCenter Pro,B2B,Bank Transfer
+ORD0305,25-12-2024,Bluetooth Speaker,Electronics,North,Pooja Tiwari,7,5500,8,35420,21000,14420,ClearView Tech,B2B,Bank Transfer
+ORD0419,25-12-2024,Bed Frame Queen,Furniture,West,Sneha Pillai,3,28000,8,77280,57000,20280,GreenCode Labs,B2B,Bank Transfer
+ORD0100,27-12-2024,Laptop Stand Alum,Electronics,West,Sneha Pillai,4,2200,5,8360,4800,3560,NexGen Solutions,B2B,Bank Transfer
+ORD0024,28-12-2024,A4 Paper Ream,Stationery,North,Rahul Sharma,3,250,0,750,420,330,Deepika Shah,B2C,Debit Card
+ORD0181,28-12-2024,Study Table Kids,Furniture,West,Sneha Pillai,6,5500,8,30360,21000,9360,Varun Khanna,B2C,Bank Transfer
+ORD0308,30-12-2024,Standing Desk,Furniture,North,Pooja Tiwari,3,28000,5,79800,60000,19800,Bhavna Patel,B2C,EMI
+ORD0458,30-12-2024,Notebook Pack (12),Stationery,East,Amit Das,5,180,15,765,450,315,FinTech Hub,B2B,Bank Transfer
+ORD0437,31-12-2024,Smart Watch V3,Electronics,Central,Deepak Joshi,2,18000,12,31680,26000,5680,PrintFast Ltd,B2B,Bank Transfer
