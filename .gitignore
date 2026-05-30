@@ -6,4 +6,6 @@ env/
 venv/
 .ipynb_checkpoints/
 .DS_Store
-data/*.csv
+output/
+*.log
+# Data files are included for submission
