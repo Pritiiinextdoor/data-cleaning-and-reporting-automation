@@ -16,22 +16,6 @@ A complete Python solution for cleaning raw sales data, generating automated rep
 - Automate cleaning and report generation workflows using Python and Excel
 - Improve reporting efficiency with a Streamlit dashboard and exportable summary files
 
-## How to run
-
-1. Place the raw data file in `data/raw_sales_data-1.csv`
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the dashboard:
-   ```bash
-   streamlit run app.py
-   ```
-4. Generate cleaned data and Excel automation report:
-   ```bash
-   python automation.py
-   ```
-
 ## Outputs produced by automation
 
 - `output/cleaned_sales_data.csv`
