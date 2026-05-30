@@ -1,6 +1,6 @@
-# Sales Automation, Cleaning, and Reporting Dashboard
+# Sales Data Automation Dashboard
 
-This project automates data cleaning, preprocessing, and reporting for the raw sales dataset in `data/raw_sales_data-1.csv`.
+A complete Python solution for cleaning raw sales data, generating automated reports, and forecasting revenue.
 
 ## What this project includes
 
