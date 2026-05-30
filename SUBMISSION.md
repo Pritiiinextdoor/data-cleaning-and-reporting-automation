@@ -1,6 +1,6 @@
 # Submission Guide
 
-This project is the final internship submission for data cleaning and reporting automation.
+This project contains a complete data cleaning and reporting automation solution.
 
 ## What is included
 
